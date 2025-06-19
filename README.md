@@ -20,7 +20,7 @@ QLess Bites is a web-based smart canteen food ordering system designed for colle
 🛠️ **TechStack**  
 Frontend: React.js, React Router, Tailwind CSS  
 Backend: Firebase Firestore, Firebase Authentication  
-Deployment: Vercel (or Firebase Hosting)  
+Deployment:Netlify
 Others: Context API, Toast notifications, Firestore real-time updates  
 
 
