@@ -1,3 +1,5 @@
+Deployed link-https://spectacular-arithmetic-a23557.netlify.app/  
+
 🍽️ **QLess Bites – Smart Canteen Pre-ordering System -**  
 QLess Bites is a web-based smart canteen food ordering system designed for colleges and offices. It helps users pre-order food from their respective canteens, reducing waiting time and ensuring efficient food preparation and pickup. Built using React.js for the frontend and Firebase for the backend.
 
